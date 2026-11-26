@@ -28,6 +28,8 @@ Research will compare approaches across models, platforms, contexts, and time. I
 
 The initial research cases arise from [Has-Needs](https://github.com/has-needs/docs) and [Jitterbug Network Topology](https://github.com/om-design/JitterbugNetworkTopology). The research program is independent of either project and is intended to contribute to scientific inquiry, education, engineering, and collaboration among diverse intelligence systems.
 
+The first proposed calibration instrument is the [Jitterbug comprehension prompt](research/jitterbug/COMPREHENSION_PROMPT.md). It examines whether a model can apply an unfamiliar architecture to concrete cases before implementing it. Evaluation criteria are maintained separately to reduce answer leakage in controlled runs.
+
 Positive Forward is a proposed field of investigation, not a claim that reliable understanding has already been achieved. Its methods and effectiveness remain subject to independent evaluation.
 
 Copyright © 2026 omdesign. All rights reserved.
